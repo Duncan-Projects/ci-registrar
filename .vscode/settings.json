@@ -1,0 +1,8 @@
+{
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "open-php-html-js-in-browser.customUrlToOpen": "http://ci.module-registrar.local",
+  "[php]": {
+    "editor.wordSeparators": "`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?",
+    "editor.defaultFormatter": "mansoorkhan96.php-cs-fixer"
+  }
+}
